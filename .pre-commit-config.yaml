@@ -46,7 +46,7 @@ repos:
         additional_dependencies:
           - black==23.7.0
   - repo: https://github.com/PyCQA/isort
-    rev: 5.13.2
+    rev: 6.0.0
     hooks:
       - id: isort
   - repo: https://github.com/pre-commit/pygrep-hooks
